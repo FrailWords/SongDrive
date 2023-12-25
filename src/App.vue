@@ -117,7 +117,7 @@
 						<span class="mb-0.5 uppercase">{{ t('page.docu') }}</span>
 					</router-link>
 					<a
-						href="https://github.com/devmount/SongDrive"
+						href="https://github.com/FrailWords/SongDrive"
 						class="px-3 py-1.5 flex items-center gap-3 hover:bg-blade-100 dark:hover:bg-blade-750"
 						target="_blank"
 					>
